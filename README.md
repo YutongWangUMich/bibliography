@@ -1,2 +1,2 @@
-# Domain-adaptation-bibliography
-A collection of papers in domain adaptation or closely related fields.
+# Bibliography
+A collection of papers that I referenced.
